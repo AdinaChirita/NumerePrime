@@ -23,7 +23,7 @@ public class Secundara extends AppCompatActivity {
             noidea = " e prim :-)))))!";
         }
 
-        display.setText(message+noidea);
+        display.setText("New message = "+ message+noidea);
 
     }
 
